@@ -17,10 +17,6 @@
 					--ck-focus-color: color(
 						display-p3 0.10196078431372549 0.5333333333333333
 							0.9725490196078431
-					);
-					--ck-overlay-background: rgba(0, 0, 0, 0.4);
-					--ck-body-color: color(display-p3 1 1 1);
-					--ck-body-color-muted: rgba(255, 255, 255, 0.4);
 					--ck-body-color-muted-hover: rgba(255, 255, 255, 0.8);
 					--ck-body-background: color(
 						display-p3 0.16862745098039217 0.16862745098039217
