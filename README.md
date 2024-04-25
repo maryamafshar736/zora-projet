@@ -9,11 +9,7 @@
 					--ck-secondary-button-hover-background: color(
 						display-p3 0.30196078431372547 0.30196078431372547
 							0.30196078431372547
-					);
-					--ck-tertiary-button-background: color(
-						display-p3 0.25882352941176473 0.25882352941176473
-							0.25882352941176473
-					);
+	);
 					--ck-focus-color: color(
 						display-p3 0.10196078431372549 0.5333333333333333
 							0.9725490196078431
